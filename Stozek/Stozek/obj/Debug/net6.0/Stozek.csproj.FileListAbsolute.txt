@@ -1,0 +1,15 @@
+D:\Hubert Karaś\Stozek\Stozek\bin\Debug\net6.0\Stozek.exe
+D:\Hubert Karaś\Stozek\Stozek\bin\Debug\net6.0\Stozek.deps.json
+D:\Hubert Karaś\Stozek\Stozek\bin\Debug\net6.0\Stozek.runtimeconfig.json
+D:\Hubert Karaś\Stozek\Stozek\bin\Debug\net6.0\Stozek.dll
+D:\Hubert Karaś\Stozek\Stozek\bin\Debug\net6.0\Stozek.pdb
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.csproj.AssemblyReference.cache
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.AssemblyInfoInputs.cache
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.AssemblyInfo.cs
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.csproj.CoreCompileInputs.cache
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.dll
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\refint\Stozek.dll
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.pdb
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\Stozek.genruntimeconfig.cache
+D:\Hubert Karaś\Stozek\Stozek\obj\Debug\net6.0\ref\Stozek.dll
